@@ -2,5 +2,5 @@
   --zen-colors-primary: var(--tab-loading-fill) !important;
   --zen-colors-secondary: var(--tab-loading-fill) !important;
   --zen-colors-tertiary: var(--lwt-accent-color) !important;
-  --toolbarbutton-icon-fill: var(--tab-loading-fill) !important; !important;
+  --toolbarbutton-icon-fill: var(--tab-loading-fill) !important;
 }

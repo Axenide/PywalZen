@@ -1,0 +1,11 @@
+[
+    {
+        "property": "uc.pywalzen.darkness",
+        "label": "Darkness level",
+        "type": "integer",
+        "defaultValue": 50,
+        "minValue": 0,
+        "maxValue": 100,
+        "disabledOn": []
+    }
+]

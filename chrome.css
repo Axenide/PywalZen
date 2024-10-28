@@ -4,3 +4,7 @@
   --zen-colors-tertiary: color-mix(in srgb, var(--lwt-accent-color), black var(--uc-pywalzen-darkness)%) !important;
   --toolbarbutton-icon-fill: var(--tab-loading-fill) !important;
 }
+
+#commonDialogWindow {
+  background-color: black !important;
+}

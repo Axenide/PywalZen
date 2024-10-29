@@ -5,7 +5,7 @@
 }
 
 :root:has(#theme-PywalZen[uc-pywalzen-darkness="default"]) {
-  --zen-colors-tertiary: color-mix(in srgb, var(--lwt-accent-color), black 0%) !important;
+  --zen-colors-tertiary: var(--lwt-accent-color) !important;
 }
 
 :root:has(#theme-PywalZen[uc-pywalzen-darkness="dark"]) {
@@ -21,7 +21,7 @@
 }
 
 :root:has(#theme-PywalZen[uc-pywalzen-darkness="pitch-black"]) {
-  --zen-colors-tertiary: color-mix(in srgb, var(--lwt-accent-color), black 100%) !important;
+  --zen-colors-tertiary: black !important;
 }
 
 #urlbar:not([focused="true"]):not([breakout-extend="true"]) > #urlbar-background {

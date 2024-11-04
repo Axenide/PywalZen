@@ -3,7 +3,7 @@
 <p align="center"><sup><i>By using some native color variables, this theme makes <a href="https://github.com/Frewacom/pywalfox">Pywalfox</a> work with <a href="https://zen-browser.app/">Zen Browser</a> correctly.</i></sup></p>
 
 > [!NOTE]
-> Zen Browser implemented custom gradients for each workspace. While this theme works, you need to tweak the contrast for Zen to recognize it, just the first time. It is compatible with gradients and the new grain effect!
+> This theme overrides custom gradients, but it is compatible with the new grain effect!
 
 ![](./screenshots/1.png)
 ![](./screenshots/2.png)

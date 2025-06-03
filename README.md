@@ -13,7 +13,7 @@
 > Use this exclusively with Pywalfox, if not the theme will look wrong causing unreadable text and other issues.
 
 ## Installation
-1. Make sure you have [Pywalfox](https://github.com/Freewacom/pywalfox) installed and configured correctly.
+1. Make sure you have [Pywalfox](https://github.com/Frewacom/pywalfox) installed and configured correctly.
 2. Paste the contents of [chrome.css](https://github.com/Axenide/PywalZen/blob/main/chrome.css) into your `userChrome.css` file. 
     - Check this [guide](https://docs.zen-browser.app/guides/live-editing) for more information on how to edit the `userChrome.css` file.
 3. Modify the preferences in `about:config` as follows:

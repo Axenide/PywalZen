@@ -18,7 +18,7 @@
     - Check this [guide](https://docs.zen-browser.app/guides/live-editing) for more information on how to edit the `userChrome.css` file.
 3. Modify the preferences in `about:config` as follows:
     - Type `uc.pywalzen.darkness`
-    - Set it to any of these strings: `default`, `dark`, `darker`, `yet-darler`, `pitch-black`.
+    - Set it to any of these strings: `default`, `dark`, `darker`, `yet-darker`, `pitch-black`.
 4. Enjoy!
 
 <p align="center">

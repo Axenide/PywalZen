@@ -15,8 +15,11 @@
 ## Installation
 1. Make sure you have [Pywalfox](https://github.com/Freewacom/pywalfox) installed and configured correctly.
 2. Paste the contents of [chrome.css](https://github.com/Axenide/PywalZen/blob/main/chrome.css) into your `userChrome.css` file. 
-  - Check this [guide](https://docs.zen-browser.app/guides/live-editing) for more information on how to edit the `userChrome.css` file.
-3. Done!
+    - Check this [guide](https://docs.zen-browser.app/guides/live-editing) for more information on how to edit the `userChrome.css` file.
+3. Modify the preferences in `about:config` as follows:
+    - Type `uc.pywalzen.darkness`
+    - Set it to any of these strings: `default`, `dark`, `darker`, `yet-darler`, `pitch-black`.
+4. Enjoy!
 
 <p align="center">
 <samp>
